@@ -220,6 +220,11 @@ td {
     font-family: 'Merriweather', serif;
 }
 
+.class {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
 .td-links {
     text-decoration: none;
     color: #FFFFFF;
